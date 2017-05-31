@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="StoreCatalogueAPIContext-Web.config Connection String" description="StoreCatalogueAPIContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=StoreCatalogueAPIContext-20170526142745; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|StoreCatalogueAPIContext-20170526142745.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\skommuru\\Documents\\Visual\ Studio\ 2017\\Projects\\StoreCatalogueAPI\\StoreCatalogueAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='StoreCatalogueAPIContext']/@connectionString" />
+  </parameter>
+</parameters>
